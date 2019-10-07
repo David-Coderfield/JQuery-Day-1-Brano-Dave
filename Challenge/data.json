@@ -1,0 +1,30 @@
+
+
+var glacy =[
+{
+	"basket": 1,
+	"name" : "milk",
+	"image" : "img/milk.jpeg",
+	"price" : "2.99",
+	"quantity" : 0
+},{
+	"basket" : 2,
+	"name" : "lemon",
+	"image" : "img/lemon.jpeg",
+	"price" : "1.99",
+	"quantity" : 0
+}
+{
+	"basket" : 3,
+	"name" : "orange juice",
+	"image" : "img/orangejuice.jpeg",
+	"price" : "3.99",
+	"quantity" : 0
+},{
+	"basket" : 4,
+	"name" : "french cheese",
+	"image" : "img/cheese.jpeg",
+	"price" : "4.50",
+	"quantity" : 0
+}
+]
