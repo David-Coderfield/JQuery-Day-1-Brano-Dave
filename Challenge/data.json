@@ -1,30 +1,27 @@
-
-
-var glacy =[
+var grocery = `[
 {
-	"basket": 1,
-	"name" : "milk",
+	"id": "1",
+	"name" : "Milk",
 	"image" : "img/milk.jpeg",
 	"price" : "2.99",
-	"quantity" : 0
+	"quantity" : "0"
 },{
-	"basket" : 2,
-	"name" : "lemon",
+	"id" : "2",
+	"name" : "Lemon",
 	"image" : "img/lemon.jpeg",
 	"price" : "1.99",
-	"quantity" : 0
-}
-{
-	"basket" : 3,
-	"name" : "orange juice",
+	"quantity" : "0"
+},{
+	"id" : "3",
+	"name" : "Orange Juice",
 	"image" : "img/orangejuice.jpeg",
 	"price" : "3.99",
-	"quantity" : 0
+	"quantity" : "0"
 },{
-	"basket" : 4,
-	"name" : "french cheese",
+	"id" : "4",
+	"name" : "French Cheese",
 	"image" : "img/cheese.jpeg",
 	"price" : "4.50",
-	"quantity" : 0
+	"quantity" : "0"
 }
-]
+]`
