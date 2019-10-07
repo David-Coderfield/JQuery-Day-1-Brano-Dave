@@ -43,7 +43,7 @@ $("document").ready(function() {
     for (let i = 0; i < data.length; i++) {
     	if (data[i].quantity > 0) { //if item is in cart...
 		    $("#cart").append(`<div class="item">Name: ${data[i].name} | Price: ${data[i].price}€ <img src=${data[i].image}><br>
-		    	Quantity: ${data[i].quantity}<br></div>`);
+		    	Quantity: ${data[i].quantity}<hr></div>`);
 		    sum+= data[i].price*data[i].quantity;
     	}
     }
